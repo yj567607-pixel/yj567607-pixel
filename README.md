@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Indra Kumar Yadav
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Indra+Kumar+Yadav;Java+Backend+Developer;Full+Stack+Developer;MCA+Student;DSA+with+Java;Passionate+Software+Engineer;Building+Real+World+Projects" />
 
-### 🚀 Java Full Stack Developer | Backend Developer | MCA Student
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Developer;DSA+with+Java;Passionate+Software+Developer;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Indra%20Kumar%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 
 </div>
 
@@ -12,22 +12,23 @@
 
 # 💫 About Me
 
-🎓 MCA Student passionate about Software Development and Backend Engineering.  
-💻 Currently focusing on **Java Backend Development**, **DSA**, and **Full Stack Development**.  
-🚀 Interested in building scalable web applications and real-world software solutions.  
-🌱 Continuously improving problem-solving skills and development knowledge.  
-🎯 Goal: To become a professional Java Backend Developer and Software Engineer.  
+🎓 MCA Student passionate about **Software Development** and **Backend Engineering**.  
+💻 Currently learning **Advanced Java**, **Spring Boot**, **REST APIs**, and **Data Structures & Algorithms**.  
+🚀 Interested in building scalable backend systems and real-world software applications.  
+🌱 Dedicated to continuous learning and improving coding skills every day.  
+🎯 Goal: To become a professional **Java Backend Developer** and **Software Engineer**.
 
 ---
 
 # 🧑‍💻 Professional Summary
 
-- 🔹 Strong understanding of Core Java & Object-Oriented Programming
-- 🔹 Learning Data Structures & Algorithms using Java
-- 🔹 Knowledge of Frontend Development using HTML, CSS & JavaScript
-- 🔹 Familiar with Git, GitHub & VS Code
-- 🔹 Interested in Backend APIs & Database Management
-- 🔹 Passionate about clean code and software architecture
+✔ Strong understanding of **Core Java** and **Object-Oriented Programming**  
+✔ Learning **Data Structures & Algorithms using Java**  
+✔ Good knowledge of **Frontend Development** using HTML, CSS & JavaScript  
+✔ Familiar with **Git**, **GitHub**, and **VS Code**  
+✔ Basic understanding of **MySQL Database Management**  
+✔ Passionate about writing clean, maintainable, and efficient code  
+✔ Focused on backend technologies and scalable application development
 
 ---
 
@@ -36,7 +37,7 @@
 ## 💻 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
 </p>
 
 ---
@@ -44,7 +45,7 @@
 ## ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 ---
@@ -60,7 +61,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -68,33 +69,35 @@
 # 📚 Currently Learning
 
 - ✅ Advanced Java
-- ✅ Spring Boot
+- ✅ Spring Boot Framework
 - ✅ REST API Development
-- ✅ JDBC & Database Connectivity
+- ✅ JDBC Connectivity
+- ✅ MySQL Database
 - ✅ Data Structures & Algorithms
-- ✅ Backend Project Development
+- ✅ Backend Project Architecture
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
 ## 🌐 Portfolio Website
-### Features:
-- Responsive Design
-- Modern UI
-- Smooth Scrolling
-- Projects Showcase
-- Contact Section
-- Mobile Friendly Design
 
-### Technologies Used:
-- HTML
-- CSS
+### ✨ Features
+- Fully Responsive Design
+- Smooth Scrolling UI
+- Project Showcase Section
+- Modern Interface
+- Contact Form
+- Mobile Friendly Layout
+
+### 🛠️ Technologies Used
+- HTML5
+- CSS3
 - JavaScript
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -108,11 +111,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yj567607-pixel&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=yj567607-pixel&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -131,13 +134,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/indal-yadav-42ba032a7" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+<a href="https://www.linkedin.com/in/indal-yadav-42ba032a7" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yt9608368042@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -145,16 +150,19 @@
 # 📫 Contact Information
 
 - 👤 Name: **Indra Kumar Yadav**
-- 📧 Email: **yt9608368042@gmail.com**
 - 🎓 Degree: **Master of Computer Applications (MCA)**
 - 💼 Role: **Aspiring Java Backend Developer**
 - 🌍 Country: **India**
+- 📧 Email: **yt9608368042@gmail.com**
 
 ---
 
 <div align="center">
 
-## ⭐ “Consistent Learning + Real Projects + Discipline = Success” ⭐
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+## ⭐ Consistent Learning + Building Projects + Discipline = Success ⭐
 
 </div>
-
