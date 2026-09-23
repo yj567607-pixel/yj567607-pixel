@@ -24,7 +24,7 @@
 
 ✔ Strong understanding of **Core Java** and **Object-Oriented Programming**  
 ✔ Learning **Data Structures & Algorithms using Java**  
-✔ Good knowledge of **Frontend Development** using HTML, CSS & JavaScript  
+✔ Good knowledge of **Frontend Development** using HTML, CSS & JavaScript & react
 ✔ Familiar with **Git**, **GitHub**, and **VS Code**  
 ✔ Basic understanding of **MySQL Database Management**  
 ✔ Passionate about writing clean, maintainable, and efficient code  
