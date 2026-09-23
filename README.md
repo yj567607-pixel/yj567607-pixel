@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-🎓 MCA Student passionate about **Software Development** and **Backend Engineering**.  
+🎓 MCA Student passionate about **Software Development** and **full stack developer**.  
 💻 Currently learning **Advanced Java**, **Spring Boot**, **REST APIs**, and **Data Structures & Algorithms**.  
 🚀 Interested in building scalable backend systems and real-world software applications.  
 🌱 Dedicated to continuous learning and improving coding skills every day.  
