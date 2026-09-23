@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Indra+Kumar+Yadav;Java+;Full+Stack+Developer;MCA+Student;DSA+with+Java;Passionate+Software+Engineer;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Indra+Kumar+YadavJava,+;Full+Stack+Developer;MCA+Student;DSA+with+Java;Passionate+Software+Engineer;Building+Real+World+Projects" />
 
 <br><br>
 
